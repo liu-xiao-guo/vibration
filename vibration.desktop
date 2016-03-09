@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=vibration
+Exec=qmlscene $@ Main.qml
+Icon=vibration.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

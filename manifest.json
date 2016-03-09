@@ -1,0 +1,17 @@
+{
+    "name": "vibration.liu-xiao-guo",
+    "description": "description of vibration",
+    "architecture": "all",
+    "title": "vibration",
+    "hooks": {
+        "vibration": {
+            "apparmor": "vibration.apparmor",
+            "desktop":  "vibration.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
